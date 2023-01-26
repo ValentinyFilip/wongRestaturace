@@ -1,0 +1,3 @@
+- program pro cisniky
+- vybrat co si stul vybrat
+- secte cenu jidel a muyes to zaplatit
